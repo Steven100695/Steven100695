@@ -12,7 +12,8 @@ My name is Steven Wang, a recent graduate in software developer from Cal State L
 I’m currently working on portfolio website with react.js and three.js
 
 ## Courseworks and Projects
-Software Design, California State University, Los Angeles, CA
+
+### Software Design, California State University, Los Angeles, CA
 
 <img src="https://github.com/Steven100695/Steven100695/blob/main/images/firefox.gif" height="200" /> <img src="https://github.com/Steven100695/Steven100695/blob/main/images/firefox2.gif" height="200" />
 
