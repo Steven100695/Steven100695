@@ -15,7 +15,7 @@ I’m currently working on portfolio website with react.js and three.js
 
 ![A Java Chat Application](https://github.com/Jonathan-Dang/CS4470-Project1)
 
-![Distance Vector Routing](https://github.com/ntrllog/Distance-Vector-Routing)
+![Python Distance Vector Routing](https://github.com/ntrllog/Distance-Vector-Routing)
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/steven100695)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/stevenw100695/)  
 
