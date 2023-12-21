@@ -1,6 +1,6 @@
 ![Software Developer](https://github.com/Steven100695/Steven100695/blob/main/images/banner.png)
 
-My name is Steven Wang, a recent graduate in software developer from Cal State LA. During my studies, I gained experience in several programming languages, mainly through college coursework and various projects. Among these languages, I am most familiar with JavaScript. Currently, I am dedicating my time to personal projects and enhancing my coding skills
+My name is Steven Wang, a recent graduate in software developer from Cal State LA. During my studies, I gained experience in several programming languages, mainly through college coursework and various projects. Among these languages, I am most familiar with JavaScript. Currently, I am dedicating my time to personal projects and enhancing my coding skills.
 
 ## Skills and Experience
 * JavaScript, Java
