@@ -11,9 +11,9 @@ My name is Steven Wang, a recent graduate in software developer from Cal State L
 
 I’m currently working on portfolio website with react.js and three.js
 
-##Courseworks and Projects
+## Courseworks and Projects
 Software Design, California State University, Los Angeles, CA
-![firefox](https://github.com/Steven100695/Steven100695/blob/main/images/firefox.gif)
+<img src="https://github.com/Steven100695/Steven100695/blob/main/images/firefox.gif" width="250" >
 ![firefox2](https://github.com/Steven100695/Steven100695/blob/main/images/firefox2.gif)
 Worked with Mozilla to improve the Firefox desktop browser by building out a basic test for a new migration window modal. open source contributor.
 Improved the Firefox MigrationWizard by enhancing the HTML DOM codes, optimizing DOM classes and elements, applying CSS styling, and thoroughly testing the code.
