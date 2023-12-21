@@ -13,8 +13,10 @@ I’m currently working on portfolio website with react.js and three.js
 
 ## Courseworks and Projects
 Software Design, California State University, Los Angeles, CA
+
 <img src="https://github.com/Steven100695/Steven100695/blob/main/images/firefox.gif" width="250" >
 <img src="https://github.com/Steven100695/Steven100695/blob/main/images/firefox2.gif" width="250" >
+
 Worked with Mozilla to improve the Firefox desktop browser by building out a basic test for a new migration window modal. open source contributor.
 Improved the Firefox MigrationWizard by enhancing the HTML DOM codes, optimizing DOM classes and elements, applying CSS styling, and thoroughly testing the code.
 Improve migration wizard by organizing browser list and removing cookies migration for potential security risks.
