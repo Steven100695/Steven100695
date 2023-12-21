@@ -2,9 +2,14 @@
 
 My name is Steven Wang, a recent graduate in software developer from Cal State LA. During my studies, I gained experience in several programming languages, mainly through college coursework and various projects. Among these languages, I am most familiar with JavaScript. Currently, I am dedicating my time to personal projects and enhancing my coding skills
 
-Skills: JavaScript / Python / HTML / SQL
+## Skills and Experience
+* JavaScript, Java
+* Python
+* C++, C#
+* HTML, CSS
+* SQL
 
-- 🔭 I’m currently working on portfolio website with react.js and three.js 
+- I’m currently working on portfolio website with react.js and three.js 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/steven100695)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/stevenw100695/)  
