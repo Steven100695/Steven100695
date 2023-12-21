@@ -9,7 +9,7 @@ My name is Steven Wang, a recent graduate in software developer from Cal State L
 * HTML, CSS
 * SQL
 
-I’m currently working on portfolio website with react.js and three.js
+I’m currently working on my portfolio website with react.js and three.js
 
 ## Recent courseworks or coursework
 
